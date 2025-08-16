@@ -1,4 +1,4 @@
-﻿# Bank Management System
+
 # Bank Management System (ATM Simulator)
 
 A Java-based desktop application that simulates core banking functionalities with a secure, user-friendly GUI.  
